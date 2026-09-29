@@ -1,0 +1,5 @@
+[general]
+name=Always Editable
+description=Forces every vector layer of the opened project to be editable.
+author=Clément Zitouni
+version=0.1
